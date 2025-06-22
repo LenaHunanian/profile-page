@@ -89,11 +89,6 @@ class ViewController: UIViewController {
         followButton.addTarget(self, action: #selector(followButtonTapped), for: .touchUpInside)
         
         
-        
-        
-        //MARK: remember to add an action
-        
-        
         //MARK: bio section elements
         //bio label
         bioLabel.textColor = .black
